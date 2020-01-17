@@ -1,5 +1,5 @@
 # AnkiConnect #
-
+dddd
 The AnkiConnect plugin enables external applications such as [Yomichan](https://foosoft.net/projects/yomichan/) to communicate with
 [Anki](https://apps.ankiweb.net/) over a network interface. This software makes it possible to execute queries against
 the user's card deck, automatically create new vocabulary and Kanji flash cards, and more. AnkiConnect is compatible
